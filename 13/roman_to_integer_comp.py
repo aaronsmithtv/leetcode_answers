@@ -24,6 +24,7 @@ class Solution:
 
         return total_value
 
+
 if __name__ == "__main__":
     s = Solution()
 
